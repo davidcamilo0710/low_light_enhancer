@@ -11,7 +11,7 @@ Both methods were evaluated using the [The Dark Face](https://www.kaggle.com/dat
 You can insert your comparative image here, showing the results of both methods against the original images.
 
 <p align="center">
-  <img src="YOUR_IMAGE_URL_HERE" alt="Comparison of results"/>
+  <img width="897" height="832" alt="image_" src="https://github.com/user-attachments/assets/71ed98a9-5113-4aff-9b2c-4f12bc5cea60" />
 </p>
 
 ## Methods Implemented
