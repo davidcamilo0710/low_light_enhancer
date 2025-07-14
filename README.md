@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[cite_start]This project explores and compares two approaches for enhancing images captured in low-light conditions: a classical method based on digital image processing and a modern method using deep neural networks. [cite: 3] [cite_start]The goal is to improve the visual quality and interpretability of dark images, a crucial pre-processing step for applications in computer vision, security, and automated analysis. [cite: 9, 11]
+This project explores and compares two approaches for enhancing images captured in low-light conditions: a classical method based on digital image processing and a modern method using deep neural networks. [cite: 3] [cite_start]The goal is to improve the visual quality and interpretability of dark images, a crucial pre-processing step for applications in computer vision, security, and automated analysis. [cite: 9, 11]
 
 [cite_start]Both methods were evaluated using the [The Dark Face](https://www.kaggle.com/datasets/soumikrakshit/dark-face-dataset/data) dataset [cite: 36, 167][cite_start], and the results show significant improvements, though each approach has distinct strengths. [cite: 6] [cite_start]The implemented deep learning model is **Zero-DCE++** [cite: 4][cite_start], a convolutional neural network that performs enhancement without direct supervision. [cite: 4]
 
@@ -11,7 +11,7 @@
 You can insert your comparative image here, showing the results of both methods against the original images.
 
 <p align="center">
-  <img width="897" height="832" alt="image_" src="https://github.com/user-attachments/assets/71ed98a9-5113-4aff-9b2c-4f12bc5cea60" />
+  <img width="897" height="832" alt="image_" src="https://github.com/user-attachments/assets/71ed98a9-5113-4aff-9b2c-4f12bc5cea60" />
 </p>
 
 ## Methods Implemented
