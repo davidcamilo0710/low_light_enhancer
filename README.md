@@ -92,6 +92,7 @@ Both methods are effective, but their suitability depends on the use case:
 * **Core Libraries**: PyTorch, OpenCV, NumPy, Matplotlib, PIL
 * **Dataset**: [The Dark Face Dataset on Kaggle](https://www.kaggle.com/datasets/soumikrakshit/dark-face-dataset/data)
 * **Training Pipeline**: [Jupyter Notebook on GitHub](https://github.com/davidcamilo0710/low_light_enhancer/blob/main/pipeline.ipynb)
+* **Training Pipeline**: [Article on GitHub](https://github.com/davidcamilo0710/low_light_enhancer/blob/main/low_light_enhancer.pdf) 
 
 ## How to Cite This Project
 
