@@ -104,5 +104,5 @@ If you use this work, please cite the repository:
   year = {2024},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{YOUR_REPOSITORY_URL_HERE}}
+  howpublished = {\url{https://github.com/davidcamilo0710/low_light_enhancer}}
 }
